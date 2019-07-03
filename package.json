@@ -1,0 +1,22 @@
+{
+  "name": "weixincheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "verifyURL.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiqunHu/weixincheck.git"
+  },
+  "author": "huliqun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiqunHu/weixincheck/issues"
+  },
+  "homepage": "https://github.com/LiqunHu/weixincheck#readme",
+  "dependencies": {
+    "qs": "^6.7.0"
+  }
+}
