@@ -1,4 +1,4 @@
-var PORT = 80 //监听8080端口号
+var PORT = 8088 //监听8080端口号
 var http = require('http')
 var qs = require('qs')
 var TOKEN = 'shipformula' //必须与测试号所填写的Token相同
